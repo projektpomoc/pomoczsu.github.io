@@ -1,0 +1,14 @@
+const langArr = {
+    "title-header" : {
+        "pl" : "Pomagamy Ukrainie wspólnie",
+        "ua" : "Допомагаємо Україні разом",
+        "en" : "Helping Ukraine together",
+    },
+
+    "img" : {
+        "pl" : "Obrazy",
+        "ua" : "Фотографії",
+        "en" : "Photos",
+    },
+
+}

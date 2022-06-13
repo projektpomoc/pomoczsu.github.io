@@ -1,0 +1,59 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="cotacts_style.css">
+    <title>vsu</title>
+</head>
+<body>
+    <div class="wrapper">   
+
+        <div class="main">
+            <div class="menu">
+                
+                <div class="container-1">
+                    <div class="img-home">
+                        <a href="../VSU.html" class="link"></a>
+                    </div>
+                </div>
+                
+                <div class="container-2">
+                    <ul>
+                        <li><a href="../VSU.html">About us</a></li>
+                        <li><a href="../inf_help/inf_help.html">Inf/help</a></li>
+                        <li><a href="../volonteer/volonteer.html">Volunteer</a></li>
+						<li><a href="../gallery/gallery.html">Gallery</a></li>
+                        <li><a href="cotacts.html" class="active">Contacts</a></li>
+                    </ul>
+                </div>
+                
+            </div>
+
+            <div class="title">
+                <h1>Pomagamy Ukrainie wspólnie </h1>
+            </div>
+
+            <div class="content">
+                <h2>Nasze kontakty:</h2></br>
+				<h4>Nasza poczta:<br> kornietsvlada@gmail.com
+								<br>maryna.1silko@gmail.com
+								<br>sneg.yra8@gmail.com</br></h4>
+				<h4>Instagram: 1234567890</h4>
+				<h4>Facebook: 1234567890</h4>
+            </div>
+
+        </div>
+
+        
+        <footer>
+            <p class="autor">
+                Yurii Snihko <br>
+                Maryna Silko<br>
+				Vladyslava Korniiets</br>
+
+            </p>
+        </footer>
+    </div>
+</body>
+</html>

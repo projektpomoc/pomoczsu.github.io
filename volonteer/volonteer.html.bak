@@ -1,0 +1,67 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./volonteer_style.css">
+    <title>vsu</title>
+</head>
+<body>
+    <div class="wrapper">   
+
+        <div class="main">
+            <div class="menu">
+                
+                <div class="container-1">
+                    <div class="img-home">
+                        <a href="../VSU.html" class="link"></a>
+                    </div>
+                </div>
+                
+                <div class="container-2">
+                    <ul>
+                        <li><a href="../VSU.html" >About us</a></li>
+                        <li><a href="../inf_help/inf_help.html">Inf/help</a></li>
+                        <li><a href="volonteer.html" class="active">Volunteer</a></li>
+						<li><a href="../gallery/gallery.html">Gallery</a></li>
+                        <li><a href="../cotacts/cotacts.html">Contacts</a></li>
+                    </ul>
+                </div>
+                
+            </div>
+
+            <div class="title">
+			
+                <h1>Pomagamy Ukrainie wspólnie </h1>
+            </div>
+
+            <div class="content">
+			<center><h2>Ogólna informacja:</h2>
+			<h4>Wolontariat to dobrowolna, świadoma, aktywna praca na rzecz konkretnej organizacji lub społeczeństwa jako całości, która pomaga w samorozwoju.Wolontariatem może być każdy, kto ma chęć i energię, aby pomagać ludziom, którzy tego potrzebują! I choć wolontariusz nie otrzymuje materialnego wynagrodzenia, zdobywa cenne doświadczenie, które później może wykorzystać w swojej działalności zawodowej i życiu osobistym, nowych znajomości i niezapomnianych wrażeń.
+			</h4></br>
+			<h4>Wolontariat w naszej firmie daje wiele korzyści i otwiera nowe możliwości. Każdy, kto dołączy do naszego zespołu, oprócz przyjaznej atmosfery i koszulki wolontariusza, może pochwalić się:
+			- oficjalna umowa wolontariatu i rekomendacje w podsumowaniu;</br>
+			- możliwość bezpłatnego udziału we wszystkich naszych wydarzeniach i projektach;</br>
+			- ciągły rozwój i umiejętność realizacji własnych pomysłów;</br>
+			- doświadczenie w pracy z fajnymi ludźmi, ekspertami w swojej dziedzinie;</br>
+			- zdobywanie nowych umiejętności i kompetencji;<br>
+			- możliwość spróbowania swoich sił w każdym z działów organizacji;</h4>
+              <h3> Jeśli chcecie Państwo stać się częścią naszej ekipy, wypełnić formularz:</h3></center>
+			  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfFi4uLhitMYb4TFspiubRNyIT3pzWk6V-tAmReTcI2RAmdrw/viewform?vc=0&c=0&w=1&flr=0"><span>Ankieta</span></a>
+			  <center><h4>Po wypełnieniu ankiety musisz poczekać, nasi specjaliści skontaktują się z Tobą. Codziennie ulepszamy nasz system i staramy się pomóc każdemu użytkownikowi. </h4></center>
+            </div>
+			
+
+        </div>
+
+        
+        <footer>
+            <p class="autor">
+                Yurii Snihko <br>
+                Maryna Silko
+
+            </p>
+        </footer>
+    </div>
+</body>
+</html>

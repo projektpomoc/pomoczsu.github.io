@@ -1,0 +1,55 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="inf_help_style.css">
+    <title>vsu</title>
+</head>
+<body>
+    <div class="wrapper">   
+
+        <div class="main">
+            <div class="menu">
+                
+                <div class="container-1">
+                    <div class="img-home">
+                        <a href="../VSU.html" class="link"></a>
+                    </div>
+                </div>
+                
+                <div class="container-2">
+                    <ul>
+                        <li><a href="../VSU.html">About us</a></li>
+                        <li><a href="inf_help.html" class="active">Inf/help</a></li>
+                        <li><a href="../volonteer/volonteer.html">Volunteer</a></li>
+						<li><a href="../gallery/gallery.html">Gallery</a></li>
+                        <li><a href="../cotacts/cotacts.html">Contacts</a></li>
+                    </ul>
+                </div>
+                
+            </div>
+
+            <div class="title">
+                <h1>Pomagamy Ukrainie wspólnie </h1>
+            </div>
+
+            <div class="content">
+                <h2>Departament Finansów Czergowy Ministerstwa Obrony Ukrainy tel. (044) 230-73-45.</h2>
+				<h2>Infolinia do Departamentu Finansów Ministerstwa Obrony Ukrainy tel. (044) 271-35-59.</h2>
+				<h2>Adresy do Departamentu Finansów Ministerstwa Obrony Ukrainy: 03168, m. Kijów -168, aleja Povitroflotskiy, 6.</h2>
+            </div>
+
+        </div>
+
+        
+        <footer>
+            <p class="autor">
+                Yurii Snihko <br>
+                Maryna Silko
+
+            </p>
+        </footer>
+    </div>
+</body>
+</html>

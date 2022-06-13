@@ -1,0 +1,161 @@
+body{
+    margin: 0;
+    height: 100%;
+    font-size: 16px;
+    background-color: FFFCE9;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+
+.wrapper{
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+
+    
+}
+
+.main{
+    flex: 1 1 auto;
+}
+
+.menu{
+    border-right: groove;
+	border-color: #D3D3D3;
+    min-height: 850px;
+    width: 14%;
+    margin: 5px;
+    padding: 10px;
+    float: left;
+    align-items: center;
+    flex-grow: 1;
+}
+.img-home{
+   
+    height: 150px;
+    
+}
+
+.img-home{
+    background: url(../img/gerb1.png) no-repeat;
+	background-size: cover;
+    background-repeat: none;
+	
+}
+
+a.link{
+    display: block;
+    height: 100%;
+}
+
+ul {
+    list-style-type: none;
+    margin-top: 30px;
+    padding: 0;
+    align-items: center;
+    text-align: center;
+}
+
+li a{
+    display: block;
+    height: 50px;
+}
+
+.active{
+    background-color: aqua;
+}
+
+.title{
+	background: url(../img/578.png) no-repeat;
+	-moz-background-size: 100%; /* Firefox 3.6+ */
+    -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: 100%; /* Opera 9.6+ */
+    background-size: 100%; /* Современные браузеры */
+    border-bottom: groove;
+	border-color: black;
+    min-height: 100px;
+    width: 85.3%;
+	border-width: 0.5px;
+    float: right;
+    margin-top: 5px;
+    text-align: center;
+}
+
+
+.title h1 {
+	font: 49px/1.3 "raleway-bold";
+	letter-spacing: -1px;
+	padding-bottom: 24px;
+	color: Black;
+	text-shadow: 0 1px 20px rgba(0, 0, 0, 0.6);
+	position: relative;    
+
+}
+.title h1 {
+	background-color: rgba(255,245,215,.5);
+	
+}
+.content{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+   
+    min-height: 730px;
+    width: 85%;
+    float: right;
+}
+.content h2{
+	border-bottom: groove;
+	border-color: #F5F5F5;
+	width: 25%;
+	border-width: 0.5px;
+}
+
+footer{
+    margin-top: auto;
+    background-color: black;
+    
+    height: 70px;
+}
+
+.autor{
+    margin-right: 10px;
+    float: right;
+    color: white;
+}
+/* */
+.content a {
+	font: 20px/60px "merriweather-black", sans-serif;
+	color: #FFFF00;
+	border-style:solid;
+	border-color:	#00BFFF;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	height: 60px;
+	display: block;
+	padding: 0 30px;
+	max-width: 400px;
+	width: 100%;
+	background: 	#00BFFF;
+	border-radius: 3px;
+	box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);
+	margin: 24px auto 0;
+	-moz-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	-webkit-transition: all 0.5s ease-in-out;
+	-ms-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+	text-align:center;
+}
+/* sweczenie knopki */
+.content a:hover {
+	background: #FFFF00;
+	color: 	#FFFF00;
+	text-align:center;
+	border-color:	#FFFF00;
+}

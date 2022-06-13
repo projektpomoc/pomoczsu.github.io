@@ -1,0 +1,68 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./home_vsu/home_vsu_style.css">
+    <title>vsu</title>
+</head>
+<body>
+
+    <div class="wrapper">   
+
+        <div class="main">
+            <div class="menu">
+                
+                <div class="container-1">
+                    <div class="img-home">
+                        <a href="VSU.html" class="link"></a>
+                    </div>
+                    
+                </div>
+                
+                <div class="container-2">
+                    <ul>
+                        <li><a href="VSU.html" class="active">About us</a></li>
+                        <li><a href="./inf_help/inf_help.html">Inf/help</a></li>
+                        <li><a href="./volonteer/volonteer.html">Volunteer</a></li>
+						<li><a href="./gallery/gallery.html">Gallery</a></li>
+                        <li><a href="./cotacts/cotacts.html">Contacts</a></li>
+                    </ul>
+                </div>
+                
+            </div>
+
+            <div class="title">
+                <h1>Pomagamy Ukrainie wspólnie </h1>
+            </div>
+
+            <div class="content">
+			<center><h2>Ogólna informacja:</h2></center>
+               <h4>Witam wszystkich. Jesteśmy grupą studentów z Ukrainy, którzy studiują na Politechnice Częstochowskiej w Polsce. Jesteśmy bardzo zaniepokojeni sytuacją, która ma obecnie miejsce w naszej ojczyźnie. Wprawdzie nie jesteśmy w epicentrum tych wszystkich strasznych wydarzeń, ale są tam nasi bliscy i rodzice. 
+Jesteśmy niezależnymi osobami, które chcą pomóc naszej ukraińskiej armii i wszystkim obywatelom Ukrainy w tych trudnych czasach. W zwiazku z tym postanowiliśmy jakoś pomóc naszej ukochanej Ukrainie. Stworzyliśmy stronę internetową dla wszystkich, którzy chcą pomóc. 
+Na tej stronie można znaleźć wszystkie niezbędne informacje o wolontariacie w Polsce, a także oficjalne źródła pomocy na Ukrainie. </br></h4>   
+
+			<center><h2>Historia</h2></center>
+			<h4>
+Historia naszej firmy rozpoczęła się w 2013 roku, kiedy to Konsul Honorowy Ukrainy we Wrocławiu Grzegorz Dzik postanowił stworzyć organizację, która mogłaby pomóc Ukraińcom w integracji z ich rodakami i Polakami. W ciągu kilku lat rozszerzyliśmy zakres naszej działalności: teraz wspieramy migrantów z całego świata. A jeszcze później do naszego zespołu dołączyła grupa młodych i ambitnych pracowników oraz wolontariuszy, gotowych do działania i ulepszania oferty organizacji.</h4>
+<h2>Nasze cele</h2>
+<h4>- Wsparcie informacyjne, edukacyjne i pomoc prawna </br>
+- Budowanie platformy wymiany doświadczeń i dobrych praktyk poprzez organizację seminariów, konferencji i wizyt studyjnych</br>
+- Wsparcie wartościowych inicjatyw i ich realizacji </br>
+- Doskonalenie umiejętności językowych obcokrajowców w języku angielskim i polskim </br>
+- Stworzenie warunków do ciągłego samorozwoju pracowników i wolontariuszy <h4>
+            </div>
+
+        </div>
+
+        
+        <footer>
+            <p class="autor">
+                Yurii Snihko <br>
+                Maryna Silko
+
+            </p>
+        </footer>
+    </div>
+</body>
+</html>
